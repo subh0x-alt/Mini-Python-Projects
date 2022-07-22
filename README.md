@@ -9,7 +9,7 @@
 Subhrajit's Repository for Python Mini Projects.
 |:eight_pointed_black_star:|:bookmark:Mini Project Titles:|
 |:---:|:---|
-|:white_check_mark:|Beautifulsoup Webscraping|
+|:white_check_mark:|Webscraping Projects|
 |:white_check_mark:|Python Automating merger of .pdf files.|
 |⬛|Python Games|
 
