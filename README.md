@@ -11,6 +11,7 @@ Subhrajit's Repository for Python Mini Projects.
 |:---:|:---|
 |:white_check_mark:|Beautifulsoup Webscraping|
 |:white_check_mark:|Python Automating merger of .pdf files.|
+|⬛|Python Games|
 
 __These are some of the finest articles on the Internet right now for getting started with web scraping.__
 
